@@ -19,3 +19,9 @@ I have included a makefile with the following instructions :
 * make compiles all of the code
 * make clean removes all of the files and replaces all .txt files
 * make run runs the program
+
+### Installation
+
+Clone this repo for easy access
+
+`git clone https://github.com/Jb591/MatchingDice.git`
